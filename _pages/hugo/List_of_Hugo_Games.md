@@ -58,7 +58,7 @@ These games were written in Hugo!
 |Teleport Test|Paul Robinson|2012||[IFDB](https://ifdb.tads.org/viewgame?id=jmtqo0usuq46q3t)|
 |[Halloween Horror](example-games/halloween-horror-part-1/)|Roody Yogurt|2012||[IFDB](https://ifdb.tads.org/viewgame?id=jf43agmy6qvyg1y)|
 |Escape From Ice Station Hippo|Jason McWright|2012|Demo game of NpcMove extension|[IFDB](https://ifdb.tads.org/viewgame?id=1qv4dxqv5aj1894j)|
-|Storm Over London|Juhana Leinonen|2014| 7th Annual New Year's Minicomp|[IFDB](https://ifdb.org/viewgame?id=bwm5l6dqe3inefds)|
+|Storm Over London|Juhana Leinonen|2014|7th Annual New Year's Minicomp|[IFDB](https://ifdb.org/viewgame?id=bwm5l6dqe3inefds)|
 |Enceladus|Robb Sherwin|2020|Submitted to IF Comp 2019, 26th Place|[IFDB](https://ifdb.org/viewgame?id=lwqcpp5od2vmslg)|
 |Overbrook|Ben Parrish|2022||[IFDB](https://ifdb.org/viewgame?id=q9fg1a0eebygvjha)|
 
